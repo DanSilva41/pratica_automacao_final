@@ -5,6 +5,9 @@
 * Baixar **GeckoDriver**: [URL GeckoDriver][]
 * Instalar **Chrome Selenium Driver**: [URL Chrome Driver][]<br/>
   `gem install capybara`
+> Mover os arquivos baixados:  GeckoDriver e Chrome Selenium Driver 
+  * Windows: **C:/Windows/** 
+  * Linux: **usr/bin/** 
 > Na linha de comando
 * Instalar e verificar instalação<br/>
   `ruby -v` <br/> `gem -v`
